@@ -245,6 +245,140 @@ const ProjectDetailsContainer = ({ data }) => {
                 null :
                 null
             }
+            {data.gallery ? data.gallery.imageSix != undefined ?
+                <div className="custom-container container-fluid">
+                    <div className="column-images">
+                        <div className="row">
+                            <div
+                                className="col-lg-6"
+                                data-aos="fade-up"
+                                data-aos-duration="600"
+                            >
+                                <div
+                                    className="details-images mt-6 wow fadeInLeft"
+                                    data-wow-delay="0.3s"
+                                    data-wow-duration="1.5s"
+                                >
+                                    <img
+                                        src={`${process.env.PUBLIC_URL}/${data.gallery.imageSix}`}
+                                        alt="Project Details"
+                                        onError={(e) => e.target.style.display = 'none'}
+                                    />
+                                </div>
+                            </div>
+                            <div
+                                className="col-lg-6"
+                                data-aos="fade-up"
+                                data-aos-duration="900"
+                            >
+                                <div
+                                    className="details-images mt-6 wow fadeInRight"
+                                    data-wow-delay="0.3s"
+                                    data-wow-duration="1.5s"
+                                >
+                                    <img
+                                        src={`${process.env.PUBLIC_URL}/${data.gallery.imageSeven}`}
+                                        alt="Project Details"
+                                        onError={(e) => e.target.style.display = 'none'}
+                                    />
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div> :
+                null :
+                null
+            }
+            {data.gallery ? data.gallery.imageEight != undefined ?
+                <div className="custom-container container-fluid">
+                    <div className="column-images">
+                        <div className="row">
+                            <div
+                                className="col-lg-6"
+                                data-aos="fade-up"
+                                data-aos-duration="600"
+                            >
+                                <div
+                                    className="details-images mt-6 wow fadeInLeft"
+                                    data-wow-delay="0.3s"
+                                    data-wow-duration="1.5s"
+                                >
+                                    <img
+                                        src={`${process.env.PUBLIC_URL}/${data.gallery.imageEight}`}
+                                        alt="Project Details"
+                                        onError={(e) => e.target.style.display = 'none'}
+                                    />
+                                </div>
+                            </div>
+                            <div
+                                className="col-lg-6"
+                                data-aos="fade-up"
+                                data-aos-duration="900"
+                            >
+                                <div
+                                    className="details-images mt-6 wow fadeInRight"
+                                    data-wow-delay="0.3s"
+                                    data-wow-duration="1.5s"
+                                >
+                                    <img
+                                        src={`${process.env.PUBLIC_URL}/${data.gallery.imageNine}`}
+                                        alt="Project Details"
+                                        onError={(e) => e.target.style.display = 'none'}
+                                    />
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div> :
+                null :
+                null
+            } {data.gallery ? data.gallery.imageTen != undefined ?
+                <div className="custom-container container-fluid">
+                    <div className="column-images">
+                        <div className="row">
+                            <div
+                                className="col-lg-6"
+                                data-aos="fade-up"
+                                data-aos-duration="600"
+                            >
+                                <div
+                                    className="details-images mt-6 wow fadeInLeft"
+                                    data-wow-delay="0.3s"
+                                    data-wow-duration="1.5s"
+                                >
+                                    <img
+                                        src={`${process.env.PUBLIC_URL}/${data.gallery.imageTen}`}
+                                        alt="Project Details"
+                                        onError={(e) => e.target.style.display = 'none'}
+                                    />
+                                </div>
+                            </div>
+                            <div
+                                className="col-lg-6"
+                                data-aos="fade-up"
+                                data-aos-duration="900"
+                            >
+                                <div
+                                    className="details-images mt-6 wow fadeInRight"
+                                    data-wow-delay="0.3s"
+                                    data-wow-duration="1.5s"
+                                >
+                                    <img
+                                        src={`${process.env.PUBLIC_URL}/${data.gallery.imageEleven}`}
+                                        alt="Project Details"
+                                        onError={(e) => e.target.style.display = 'none'}
+                                    />
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div> :
+                null :
+                null
+            }
             {/* FOR VIDEOS */}
             <div className="custom-container container-fluid">
                 <div className="column-images">
@@ -444,6 +578,75 @@ const ProjectDetailsContainer = ({ data }) => {
                                         <video
                                             width="80%" height="80%"
                                             src={`${process.env.PUBLIC_URL}/${data.video.Six}`}
+                                            controls
+                                            onError={(e) => e.target.style.display = 'none'}
+                                        >
+                                        </video> :
+                                    null :
+                                    null
+                                }
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div className="custom-container container-fluid">
+                <div className="column-images">
+                    <div className="row">
+                        <div
+                            className="col-lg-6"
+                            data-aos="fade-up"
+                            data-aos-duration="600"
+                        >
+                            <div
+                                className="details-images mt-6 wow fadeInLeft"
+                                data-wow-delay="0.3s"
+                                data-wow-duration="1.5s"
+                            >
+                                {data.video ? data.video.Seven != undefined ?
+                                    data.id == 9 ?
+                                        <iframe
+                                            width="80%" height="290 rem"
+                                            src={data.video.Seven}
+                                            title="videos"
+                                            allowfullscreen>
+                                        </iframe>
+                                        :
+                                        <video
+                                            width="80%" height="80%"
+                                            src={`${process.env.PUBLIC_URL}/${data.video.Seven}`}
+                                            controls
+                                            onError={(e) => e.target.style.display = 'none'}
+                                        >
+                                        </video> :
+                                    null :
+                                    null
+                                }
+                            </div>
+                        </div>
+                        <div
+                            className="col-lg-6"
+                            data-aos="fade-up"
+                            data-aos-duration="900"
+                        >
+                            <div
+                                className="details-images mt-6 wow fadeInRight"
+                                data-wow-delay="0.3s"
+                                data-wow-duration="1.5s"
+                            >
+                                {data.video ? data.video.Eight != undefined ?
+                                    data.id == 9 ?
+                                        <iframe
+                                            width="80%" height="290 rem"
+                                            src={data.video.Eight}
+                                            title="videos"
+                                            allowfullscreen>
+                                        </iframe>
+                                        :
+                                        <video
+                                            width="80%" height="80%"
+                                            src={`${process.env.PUBLIC_URL}/${data.video.Eight}`}
                                             controls
                                             onError={(e) => e.target.style.display = 'none'}
                                         >
