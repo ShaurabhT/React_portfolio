@@ -1,0 +1,104 @@
+[
+    {
+        "id": "Education",
+        "title": "Education Achieved",
+        "yearOne": "",
+        "yearTwo": "Works",
+        "yearThree": "Skills",
+        "yearFour": "Languages",
+        "yearFive": "Documentation",
+        "yearSix": "Editing Software",
+        "yearSeven": "Programming Language",
+        "awardItem": [
+            {
+                "id": 1,
+                "className": "text-danger",
+                "cate": "Bachelors",
+                "title": "Sagarmatha Engineering College <span>(Computer Eng.)</span>"
+            },
+            {
+                "id": 2,
+                "className": "text-success",
+                "cate": "High School(+2) ",
+                "title": "Xavier Academy <span>(Science)</span>"
+            },
+            {
+                "id": 3,
+                "className": "text-primary",
+                "cate": "School",
+                "title": "Shuvatara School <span>(SLC)</span>"
+            },
+            {
+                "id": 4,
+                "className": "text-warning",
+                "cate": "Front End Developer",
+                "title": "Sagarmatha Engineering College (Intern)"
+            },
+            {
+                "id": 5,
+                "className": "text-primary",
+                "cate": "Designer",
+                "title": "Freelancing"
+            },
+            {
+                "id": 6,
+                "className": "text-warning",
+                "cate": "Languages  ",
+                "title": "English ,Nepali ,Hindi ,Newari"
+            },
+            {
+                "id": 7,
+                "className": "text-primary",
+                "cate": "Documentation Tools",
+                "title": "Word,Excel,PowerPoint,Overleaf"
+            },
+            {
+                "id": 8,
+                "className": "text-primary",
+                "cate": "Video Editing Software",
+                "title": "Premier Pro,After Effect,Davinci Resolve"
+            },
+            {
+                "id": 9,
+                "className": "text-primary",
+                "cate": "3D Software",
+                "title": "Cinema 4d,Blender"
+            },
+            {
+                "id": 10,
+                "className": "text-primary",
+                "cate": "Designing Software",
+                "title": "Photoshop,Illustrator,Figma,Adobe XD"
+            },
+            {
+                "id": 11,
+                "className": "text-danger",
+                "cate": "Programming Language",
+                "title": "JavaScript,Python,C/C++"
+            },
+            {
+                "id": 12,
+                "className": "text-primary",
+                "cate": "Frameworks",
+                "title": "Django,MERN,Laravel"
+            },
+            {
+                "id": 13,
+                "className": "text-primary",
+                "cate": "Version control Software",
+                "title": "GitHub,GitBucket,GitLab"
+            },
+            {
+                "id": 14,
+                "className": "text-primary",
+                "cate": "Collaboration Softwares",
+                "title": "Click Up,Slack"
+            }
+        ]
+    },
+    {
+        "id": "AboutContent",
+        "title": "<span>Hello!</span> I am Shaurabh, <br> Interactive Developer /<br>Editor / Designer based <br> in Nepal.",
+        "excerpt": "Follow Me on Other Platforms"
+    }
+]

@@ -1,0 +1,149 @@
+[
+    {
+        "slider": [
+            {
+                "id": 1,
+                "backgroundImage": "/images/slider/slider-1.jpg",
+                "subTitle": "",
+                "title": "About me",
+                "desc": "I am Shaurabh from Nepal, with a strong focus in design and programming.<br /> Someone eager to try new things and constantly diversifying their work, it’s hard to whittle that list down.<br/> Being a artist and programmer,I can take an idea and turn it into something real.<br /> "
+            },
+            {
+                "id": 2,
+                "backgroundImage": "/images/slider/slider-1.jpg",
+                "subTitle": "",
+                "title": "Hobbies / Intrests",
+                "desc": "My hobbies are Digital Art & Design,Photography ,Travelling and Editing .I am an avid photographer, I picked up this hobby only a couple of years ago, so it’s relatively fresh. "
+            }
+        ]
+    },
+    {
+        "brand": [
+            {
+                "id": 1,
+                "image": "./images/clients/client-1.png"
+            },
+            {
+                "id": 2,
+                "image": "./images/clients/client-2.png"
+            },
+            {
+                "id": 3,
+                "image": "./images/clients/client-3.png"
+            },
+            {
+                "id": 4,
+                "image": "./images/clients/client-4.png"
+            },
+            {
+                "id": 5,
+                "image": "./images/clients/client-5.png"
+            }
+        ]
+    },
+    {
+        "iconBox": [
+            {
+                "id": "1",
+                "icon": "icofont-labour",
+                "title": "Professional and dedicated ",
+                "excerpt": "Building Designs and Programs with modern technology."
+            },
+            {
+                "id": "2",
+                "icon": "icofont-ruler-compass-alt",
+                "title": "unique design",
+                "excerpt": "Living in a world of infinite possibilities, preferring to see things not as they are but as they could be."
+            },
+            {
+                "id": "3",
+                "icon": "icofont-credit-card",
+                "title": "Affordable and Flexible",
+                "excerpt": "ring nature in your house. Health is important"
+            },
+            {
+                "id": "4",
+                "icon": "icofont-live-earth",
+                "title": "Experienced",
+                "excerpt": "From logo designing ,animation to making your website come to life.  "
+            }
+        ]
+    },
+    {
+        "funfact": [
+            {
+                "id": 1,
+                "number": 80,
+                "title": "Works"
+            },
+            {
+                "id": 2,
+                "number": 125,
+                "title": "Khai K lekhne"
+            },
+            {
+                "id": 3,
+                "number": 10,
+                "title": "project completed <br />"
+            }
+        ]
+    },
+    {
+        "testimonial": [
+            {
+                "id": 1,
+                "icon": "icofont-quote-right",
+                "name": "Ryan Betthalyn",
+                "designation": "Director at Chobham Manor",
+                "excerpt": "Sed elit quam, iaculis sed semper sit amet udin vitae nibh. Rubino at magna akal semperFusce commodo molestie luctus.Lorem ipsum Dolor tusima olatiup."
+            },
+            {
+                "id": 2,
+                "icon": "icofont-quote-right",
+                "name": "Bobs Hanely",
+                "designation": "Director at Spotify",
+                "excerpt": "Sed elit quam, iaculis sed semper sit amet udin vitae nibh. Rubino at magna akal semperFusce commodo molestie luctus.Lorem ipsum Dolor tusima olatiup."
+            }
+        ]
+    },
+    {
+        "pricing": [
+            {
+                "id": 1,
+                "badgeType": "false",
+                "badge": "popular",
+                "icon": "icon-paper-plane",
+                "title": "Personal",
+                "price": "<sup>$</sup>9.99<span>/ month</span>",
+                "pricingList": [
+                    "Custome Domains",
+                    "Sleep after 30 mins of <br /> activity"
+                ]
+            },
+            {
+                "id": 2,
+                "badgeType": "true",
+                "badge": "popular",
+                "icon": "icon-plane",
+                "title": "small team",
+                "price": "<sup>$</sup>49.99<span>/ month</span>",
+                "pricingList": [
+                    "never sleeps",
+                    "multiple workers for more <br /> powerful apps"
+                ]
+            },
+            {
+                "id": 3,
+                "badgeType": "false",
+                "badge": "popular",
+                "icon": "icon-rocket",
+                "title": "enterprise",
+                "price": "<sup>$</sup>99.99<span>/ month</span>",
+                "pricingList": [
+                    "dedicated",
+                    "simple horizontal <br /> scalability"
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,352 @@
+[
+    {
+        "id": 1,
+        "media": {
+            "thumb": "./images/project/project-1.jpg",
+            "image": "./images/project-details/project-details-1.jpg"
+        },
+        "title": "Line Following Robot",
+        "categories": [
+            "C++"
+        ],
+        "challenge": "Line Follow",
+        "date": "Jan 10, 2019",
+        "team": "-",
+        "service": "C /C++ ",
+        "subTitle": "Ideas & Concept",
+        "body": [
+            "<p>A Line Follower Robot, as the name suggests, is an automated guided vehicle, which follow a visual line embedded on the floor or ceiling. Usually, the visual line is the path in which the line follower robot goes and it will be a black line on a white surface but the other way (white line on a black surface) is also possible.</p>",
+            "<p>Components:</p>",
+            "<p>Sensors (IR Sensor): We have used IR Sensor Module as the line detecting sensor for the project. It consists of an IR LED and a Photo diode and some other components like comparator, LED etc. Controller (Arduino UNO): Arduino UNO is the main controller in the project. The data from the sensors (IR Sensors) will be given to Arduino and it gives corresponding signals to the Motor Driver IC. Motor Driver (L293D): L293D Motor Driver IC is used in this project to drive the motors of the robot. It receives signals from Arduino based on the information from the IR Sensors. Motors (Geared Motors): We have used two geared motors at the rear of the line follower robot. These motors provide more torque than normal motors and can be used for carrying some load as well.</p>",
+            "<p>Working:</p>",
+            "<p>In this project, we have designed an Arduino based Line Follower Robot. The working of the project is pretty simple: detect the black line on the surface and move along that line. The detailed working is explained here.</p>",
+            "<p>We need sensors to detect the line. For line detection logic, we used two IR Sensors, which consists of IR LED and Photodiode. They are placed in a reflective way i.e. side – by – side so that whenever they come in to proximity of a reflective surface, the light emitted by IR LED will be detected by Photo diode. In case of black surface, which has a low reflectance, the light gets completely absorbed by the black surface and doesn’t reach the photodiode.</p>",
+            "<p>Using the same principle, we will setup the IR Sensors on the Line Follower Robot such that the two IR Sensors are on the either side of the black line on the floor.</p>",
+            "<p>When the robot moves forward, both the sensors wait for the line to be detected. For example, if the IR Sensor 1 in the above image detects the black line, it means that there is a right curve (or turn) ahead.</p>",
+            "<p>Arduino detects this change and sends signal to motor driver accordingly. In order to turn right, the motor on the right side of the robot is slowed down using PWM, while the motor on the left side is run at normal speed.</p>"
+        ],
+        "quote": "",
+        "name": "Shaurabh R. Tuladhar",
+        "designation": "",
+        "gallery": {
+            "imageOne": "./images/project-details/dec-images-1-1.jpg",
+            "imageTwo": "./images/project-details/dec-images-1-2.jpg"
+        },
+        "link": "https://github.com/ShaurabhT/Line_Following"
+    },
+    {
+        "id": 2,
+        "media": {
+            "thumb": "./images/project/project-2.jpg",
+            "image": "./images/project-details/project-details-2.jpg"
+        },
+        "title": "Shortest path ",
+        "categories": [
+            "Mobile app"
+        ],
+        "challenge": "Strategy",
+        "date": "Jan 15, 2020",
+        "team": "",
+        "service": "Strategy, UI/UX Interaction, Mobile Design",
+        "subTitle": "Ideas & Concept",
+        "body": [
+            "<p>Very First Project done using gradle to explore Android development #Done For Techno-fest 2020 (Project Software Competition)</p>",
+            "<p>Shortest path problem is very significant in the study of transportation and communication network.</p>",
+            "<p>Travelling is important part of daily life. Therefore the optimal shortest path (SP) to the particular destination becomes inevitable to reduce costs, losses in productivity, pollutions, and risks etc. An appropriate algorithm is used to find the shortest path between two known vertices is Dijkstra’s algorithm which is submitted by the famous Dutch computer scientist Edsger W. Dijkstra, which was recognized as the optimal algorithm that can be applied to obtain the shortest path from a vertex (node) to any other vertex.An android application based on improved Dijkstra algorithm which used constraint function and develop this algorithm by using priority queue and determine the source by GPS .This Application assist to find the shortest path to hospital from user location, time, distance, all hospital information related (like hospital name, contact number, e-mail, and specialization). It is helpful in terms of reducing transition time, effort, and cost. Android mobile's application considered as a guide for users toward the hospitals</p>",
+            "<p>Dependencies maybe depricated</p>"
+        ],
+        "quote": " ",
+        "name": "Shaurabh R. Tuladhar",
+        "designation": "",
+        "gallery": {
+            "imageOne": "./images/project-details/dec-images-2-1.jpg",
+            "imageTwo": "./images/project-details/dec-images-2-2.jpg"
+        },
+        "link": "https://github.com/ShaurabhT/Ambulance"
+    },
+    {
+        "id": 3,
+        "media": {
+            "thumb": "./images/project/project-3.jpg",
+            "image": "./images/project-details/project-details-3.jpg"
+        },
+        "title": "Dietopedia",
+        "categories": [
+            "Django",
+            "MYSQL"
+        ],
+        "challenge": "API's & Calculations",
+        "date": "Dec 21, 2020",
+        "team": "",
+        "service": "Django ,Python",
+        "subTitle": "Ideas & Concept",
+        "body": [
+            "<p>Made for approval A PROJECT PROPOSAL SUBMITTED TO THE DEPARTMENT OF: ELECTRONICS AND COMPUTER ENGINEERING IN PARTIAL FULFILLMENT OF THE REQUIREMENTS FOR THE DEGREE OF BACHELOR IN ELECTRONICS AND COMMUNICATION ENGINEERING</p>",
+            "<p>alanced diet, an essential factor to a healthy life yet an underachieved goal globally. This project deals with developing an website that helps its customers to plan a balanced diet according to their daily necessity and recommending food products according to required calories on a daily basis. Although there are few existing websites providing services regarding vegetable supplies. But there services are more focused on supplying the vegetables whereas our goal is to establish an awareness amongst people of what they eat, set up a calorie goal according to their necessity and their economic status. In order to help people plan dish according to their calorie goals, we provide them with a list of dishes with total calories.</p>",
+            "<p>Dietopedia is a website that helps its users to plan their daily meal based on the total calorie required based upon their BMR.Upon joining,they will be provided with different dishes to choose from, listed as per their calorie goal.Nepalese aren’t really concerned about the quality and quantity of food they eat. Their food preferences are biased by cultural aspect, taste and economic aspect. Thus it is a quiet alarming but less concerned problem that Nepalese society face. Our project helps people to be aware of what they eat, the amount they eat and about their family’s necessity. There are some foreign websites that does similar calorie calculation for a person to consume in a daily life but the foods calories they show isn’t quiet suitable for us due to difference in lifestyle. And we haven’t encountered any website that’s based in Nepal and serves our very purpose.</p>",
+            "<p>Objectives:</p>",
+            "<p>This research work is conducted in order to:</p>",
+            "<p>• To build the clean responsive website</p>",
+            "<p>• Provide consumers instant access and a quicker purchase to healthier meal plan with a medium to show calories intake</p>"
+        ],
+        "quote": "",
+        "name": "Shaurabh R. Tuladhar",
+        "designation": "",
+        "gallery": {
+            "imageOne": "./images/project-details/dec-images-3-1.jpg",
+            "imageTwo": "./images/project-details/dec-images-3-2.jpg"
+        },
+        "link": "https://github.com/ShaurabhT/Dietopedia"
+    },
+    {
+        "id": 4,
+        "media": {
+            "thumb": "./images/project/project-4.jpg",
+            "image": "./images/project-details/project-details-4.jpg"
+        },
+        "title": "Examination System",
+        "categories": [
+            "PHP",
+            "MYSQL"
+        ],
+        "challenge": "API's & Calculations ,Backend",
+        "date": "Jan 4, 2021",
+        "team": "",
+        "service": "HTML, CSS ,JavaScript ,PHP ,MySQL",
+        "subTitle": "Ideas & Concept",
+        "body": [
+            "<p>BASIC Examination BUILT TO KNOW BASIC OF PHP</p>",
+            "<p>~Today Online Examination System has become a fast growing examination method because of its speed and accuracy.</p>",
+            "<p>It is also needed less manpower to execute the examination. Almost all organizations now-a-days, are conducting their objective exams by online examination system, it saves students time in examinations.Organizations can also easily check the performance of the student that they give in an examination.As a result of this, organizations are releasing results in less time. It also helps the environment by saving paper.</p>",
+            "<p>Administrator of Online Examination has multiple features such as Add, Delete, Update Topics and Question. The user will automatically get the updated version by logging using the user ID and Password provided at the time of registration.'</p>",
+            "<p>Project objective: Online examination system is a non removable examination pattern of today’s life.</p>",
+            "<p>We need more time saving and more accurate examination system as the number of applicants is increasing day by day.</p>",
+            "<p>On this site you will get source code with the running project. It will help you to understand the concept of the project</p>",
+            "<p>Front end: HTML, CSS, JavaScript Back end: PHP, MySQL</p>"
+        ],
+        "quote": "",
+        "name": "Shaurabh R. Tuladhar",
+        "designation": "",
+        "gallery": {
+            "imageOne": "./images/project-details/dec-images-4-1.jpg",
+            "imageTwo": "./images/project-details/dec-images-4-2.jpg"
+        },
+        "link": "https://github.com/ShaurabhT/Php_Examination-"
+    },
+    {
+        "id": 5,
+        "media": {
+            "thumb": "images/project/project-5.jpg",
+            "image": "./images/project-details/project-details-5.jpg"
+        },
+        "title": "KimKims Pastry",
+        "categories": [
+            "Web",
+            "React"
+        ],
+        "challenge": "UI UX Designs ",
+        "date": "Sept 20, 2022",
+        "team": "Shaurabh / Dipesh - Developer ",
+        "service": "React ,Bootstrap ",
+        "subTitle": "Ideas & Concept",
+        "body": [
+            "<p>Kimkims website is created for a bakery client where they can order and view different services they provide.</p>"
+        ],
+        "quote": "",
+        "name": "Shaurabh R. Tuladhar",
+        "designation": "",
+        "gallery": {
+            "imageOne": "./images/project-details/dec-images-5-1.jpg",
+            "imageTwo": "./images/project-details/dec-images-5-2.jpg"
+        },
+        "link": "https://kimkimspastry.com/#/"
+    },
+    {
+        "id": 6,
+        "media": {
+            "thumb": "images/project/project-6.jpg",
+            "image": "./images/project-details/project-details-6.jpg"
+        },
+        "title": "Calm Pokhara Event",
+        "categories": [
+            "Design"
+        ],
+        "challenge": "Poster Designs ",
+        "date": "July 20, 2022",
+        "team": "",
+        "service": "Illustrator ,Photoshop",
+        "subTitle": "Ideas & Concept",
+        "body": [
+            "<p>Bipul Chettri Concert Poster.</p>"
+        ],
+        "quote": "",
+        "name": "Shaurabh R. Tuladhar",
+        "designation": "",
+        "gallery": {
+            "imageOne": "./images/project-details/dec-images-6-1.jpg",
+            "imageTwo": "./images/project-details/dec-images-6-2.jpg",
+            "imageThree": "./images/project-details/dec-images-6-3.jpg",
+            "imageFour": "./images/project-details/dec-images-6-4.jpg"
+        },
+        "link": "https://www.instagram.com/p/Cfv7RPsMnYX/"
+    },
+    {
+        "id": 7,
+        "media": {
+            "thumb": "images/project/project-7.jpg",
+            "image": "./images/project-details/project-details-7.jpg"
+        },
+        "title": "Kim Kim's Branding",
+        "categories": [
+            "Design"
+        ],
+        "challenge": "Logo Designs ",
+        "date": "Nov 20, 2022",
+        "team": "",
+        "service": "Illustrator ,Photoshop",
+        "subTitle": "Ideas & Concept",
+        "body": [
+            "<p>Online Bakery shop branding logo designs</p>"
+        ],
+        "quote": "",
+        "name": "Shaurabh R. Tuladhar",
+        "designation": "",
+        "gallery": {
+            "imageOne": "./images/project-details/dec-images-7-1.jpg",
+            "imageTwo": "./images/project-details/dec-images-7-2.jpg",
+            "imageThree": "./images/project-details/dec-images-7-3.jpg",
+            "imageFour": "./images/project-details/dec-images-7-4.jpg"
+        },
+        "link": "https://www.instagram.com/kimkimspastry/"
+    },
+    {
+        "id": 8,
+        "media": {
+            "thumb": "images/project/project-8.jpg",
+            "image": "./images/project-details/project-details-8.jpg"
+        },
+        "title": "House of Brainz (HOB)",
+        "categories": [
+            "Design"
+        ],
+        "challenge": "Logo Designs ",
+        "date": "Nov 20, 2022",
+        "team": "",
+        "service": "Illustrator ,Photoshop",
+        "subTitle": "Ideas & Concept",
+        "body": [
+            "<p>Branding Videos done for House of Brainz.</p>"
+        ],
+        "quote": "",
+        "name": "Shaurabh R. Tuladhar",
+        "designation": "",
+        "gallery": {},
+        "video": {
+            "One": "./images/project-details/houseofbrainz-1.mp4",
+            "Two": "./images/project-details/houseofbrainz-2.mp4",
+            "Three": "./images/project-details/houseofbrainz-3.mp4"
+        },
+        "link": "https://www.instagram.com/kimkimspastry/"
+    },
+    {
+        "id": 9,
+        "media": {
+            "thumb": "images/project/project-9.jpg",
+            "image": "./images/project-details/project-details-9.jpg"
+        },
+        "title": "Free time works",
+        "categories": [
+            "Animations",
+            "Designs"
+        ],
+        "challenge": "Logo Designs ,Animation",
+        "date": "-",
+        "team": "",
+        "service": "Illustrator ,Photoshop,After Effect ,Premier Pro",
+        "subTitle": "Ideas & Concept",
+        "body": [
+            "<p>Some compilations of my hobbies and intrest.</p>"
+        ],
+        "quote": "",
+        "name": "Shaurabh R. Tuladhar",
+        "designation": "",
+        "gallery": {
+            "imageOne": "./images/project-details/dec-images-9-1.jpg",
+            "imageTwo": "./images/project-details/dec-images-9-2.jpg",
+            "imageThree": "./images/project-details/dec-images-9-3.jpg",
+            "imageFour": "./images/project-details/dec-images-9-4.jpg",
+            "imageFive": "./images/project-details/dec-images-9-5.jpg"
+        },
+        "video": {
+            "One": "https://www.youtube.com/embed/UWWWgTfaVy4",
+            "Two": "https://www.youtube.com/embed/sCBJhtci0Co",
+            "Three": "https://www.youtube.com/embed/vOapcefCWEU",
+            "Four": "https://www.youtube.com/embed/LNjqpYBjA5o",
+            "Five": "https://www.youtube.com/embed/zF4k6FvPjiA",
+            "Six": "https://www.youtube.com/embed/B1f-195UJZg"
+        }
+    },
+    {
+        "id": 10,
+        "media": {
+            "thumb": "images/project/project-10.jpg",
+            "image": "./images/project-details/project-details-10.jpg"
+        },
+        "title": "UI UX Designs",
+        "categories": [
+            "UI UX",
+            "Designs"
+        ],
+        "challenge": "Logo Designs ,Animation",
+        "date": "-",
+        "team": "",
+        "service": "Illustrator ,Photoshop,After Effect ,Premier Pro",
+        "subTitle": "Ideas & Concept",
+        "body": [
+            "<p>Some UI UX designs.</p>"
+        ],
+        "quote": "",
+        "name": "Shaurabh R. Tuladhar",
+        "designation": "",
+        "gallery": {
+            "imageOne": "./images/project-details/dec-images-10-1.jpg",
+            "imageTwo": "./images/project-details/dec-images-10-2.jpg",
+            "imageThree": "./images/project-details/dec-images-10-3.jpg",
+            "imageFour": "./images/project-details/dec-images-10-4.jpg"
+        }
+    },
+    {
+        "id": 11,
+        "media": {
+            "thumb": "images/project/project-11.jpg",
+            "image": "./images/project-details/project-details-11.jpg"
+        },
+        "title": "More Client Works",
+        "categories": [
+            "Designs"
+        ],
+        "challenge": "Logo Designs ,Animation",
+        "date": "-",
+        "team": "",
+        "service": "Illustrator ,Photoshop,After Effect ,Premier Pro",
+        "subTitle": "Ideas & Concept",
+        "body": [
+            "<p>Some UI UX designs.</p>"
+        ],
+        "quote": "",
+        "name": "Shaurabh R. Tuladhar",
+        "designation": "",
+        "gallery": {
+            "imageOne": "./images/project-details/dec-images-11-1.jpg",
+            "imageTwo": "./images/project-details/dec-images-11-2.jpg",
+            "imageThree": "./images/project-details/dec-images-11-3.jpg",
+            "imageFour": "./images/project-details/dec-images-11-4.jpg"
+        },
+        "video": {
+            "One": "./images/project-details/Morework-1.mp4",
+            "Two": "./images/project-details/Morework-2.mp4",
+            "Three": "./images/project-details/Morework-3.mp4",
+            "Four": "./images/project-details/Morework-4.mp4"
+        }
+    }
+]
