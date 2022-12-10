@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "./static/css/main.9afb4b40.chunk.css",
-    "main.js": "./static/js/main.b94c88bb.chunk.js",
-    "main.js.map": "./static/js/main.b94c88bb.chunk.js.map",
-    "runtime-main.js": "./static/js/runtime-main.6b287a0a.js",
-    "runtime-main.js.map": "./static/js/runtime-main.6b287a0a.js.map",
-    "static/css/2.8d25d02a.chunk.css": "./static/css/2.8d25d02a.chunk.css",
-    "static/js/2.3f52b900.chunk.js": "./static/js/2.3f52b900.chunk.js",
-    "static/js/2.3f52b900.chunk.js.map": "./static/js/2.3f52b900.chunk.js.map",
-    "index.html": "./index.html",
-    "static/css/2.8d25d02a.chunk.css.map": "./static/css/2.8d25d02a.chunk.css.map",
-    "static/css/main.9afb4b40.chunk.css.map": "./static/css/main.9afb4b40.chunk.css.map",
-    "static/js/2.3f52b900.chunk.js.LICENSE.txt": "./static/js/2.3f52b900.chunk.js.LICENSE.txt",
-    "static/media/fontawesome.min.css": "./static/media/fa-solid-900.f98d003b.svg",
-    "static/media/icofont.min.css": "./static/media/icofont.dad3accb.woff"
+    "main.css": "/React_portfolio/static/css/main.7e4da6f6.chunk.css",
+    "main.js": "/React_portfolio/static/js/main.2e713ab1.chunk.js",
+    "main.js.map": "/React_portfolio/static/js/main.2e713ab1.chunk.js.map",
+    "runtime-main.js": "/React_portfolio/static/js/runtime-main.cb44317b.js",
+    "runtime-main.js.map": "/React_portfolio/static/js/runtime-main.cb44317b.js.map",
+    "static/css/2.8d25d02a.chunk.css": "/React_portfolio/static/css/2.8d25d02a.chunk.css",
+    "static/js/2.3f52b900.chunk.js": "/React_portfolio/static/js/2.3f52b900.chunk.js",
+    "static/js/2.3f52b900.chunk.js.map": "/React_portfolio/static/js/2.3f52b900.chunk.js.map",
+    "index.html": "/React_portfolio/index.html",
+    "static/css/2.8d25d02a.chunk.css.map": "/React_portfolio/static/css/2.8d25d02a.chunk.css.map",
+    "static/css/main.7e4da6f6.chunk.css.map": "/React_portfolio/static/css/main.7e4da6f6.chunk.css.map",
+    "static/js/2.3f52b900.chunk.js.LICENSE.txt": "/React_portfolio/static/js/2.3f52b900.chunk.js.LICENSE.txt",
+    "static/media/fontawesome.min.css": "/React_portfolio/static/media/fa-solid-900.f98d003b.svg",
+    "static/media/icofont.min.css": "/React_portfolio/static/media/icofont.dad3accb.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.6b287a0a.js",
+    "static/js/runtime-main.cb44317b.js",
     "static/css/2.8d25d02a.chunk.css",
     "static/js/2.3f52b900.chunk.js",
-    "static/css/main.9afb4b40.chunk.css",
-    "static/js/main.b94c88bb.chunk.js"
+    "static/css/main.7e4da6f6.chunk.css",
+    "static/js/main.2e713ab1.chunk.js"
   ]
 }
