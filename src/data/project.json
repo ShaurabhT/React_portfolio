@@ -438,7 +438,8 @@
         },
         "video": {
             "One": "./images/project-details/3d-1.mp4",
-            "Two": "./images/project-details/3d-2.mp4"
+            "Two": "./images/project-details/3d-2.mp4",
+            "Three": "./images/project-details/3d-3.mp4"
         }
     },
     {

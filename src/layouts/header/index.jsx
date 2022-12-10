@@ -19,15 +19,14 @@ const Header = () => {
         };
     }, []);
 
-    const handleScroll = ({}) => {
+    const handleScroll = ({ }) => {
         setScroll(window.scrollY);
     };
     return (
         <Fragment>
             <div
-                className={`header fixed-top ${
-                    scroll > headerTop ? "sticky" : ""
-                }`}
+                className={`header fixed-top ${scroll > headerTop ? "sticky" : ""
+                    }`}
             >
                 <div className="container custom-container">
                     <div className="header-wrapper">
