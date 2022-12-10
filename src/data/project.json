@@ -360,7 +360,8 @@
         },
         "title": "Macrotronic",
         "categories": [
-            "React"
+            "React",
+            "MongoDB"
         ],
         "challenge": "Suggestions",
         "date": "Jan 10, 2020",
@@ -438,6 +439,42 @@
         "video": {
             "One": "./images/project-details/3d-1.mp4",
             "Two": "./images/project-details/3d-2.mp4"
+        }
+    },
+    {
+        "id": 15,
+        "media": {
+            "thumb": "./images/project/project-15.jpg",
+            "image": "./images/project-details/project-details-15.jpg"
+        },
+        "title": "Photography",
+        "categories": [
+            "Photography"
+        ],
+        "challenge": "Concept",
+        "date": "-",
+        "team": "-",
+        "service": "React",
+        "subTitle": "Ideas & Concept",
+        "body": [
+            "<p>Photography</p>"
+        ],
+        "quote": "",
+        "name": "Shaurabh R. Tuladhar",
+        "designation": "",
+        "gallery": {
+            "imageOne": "./images/project-details/dec-images-15-1.jpg",
+            "imageTwo": "./images/project-details/dec-images-15-2.jpg",
+            "imageThree": "./images/project-details/dec-images-15-3.jpg",
+            "imageFour": "./images/project-details/dec-images-15-4.jpg",
+            "imageFive": "./images/project-details/dec-images-15-5.jpg",
+            "imageSix": "./images/project-details/dec-images-15-6.jpg",
+            "imageSeven": "./images/project-details/dec-images-15-7.jpg",
+            "imageEight": "./images/project-details/dec-images-15-8.jpg",
+            "imageNine": "./images/project-details/dec-images-15-9.jpg",
+            "imageTen": "./images/project-details/dec-images-15-10.jpg",
+            "imageEleven": "./images/project-details/dec-images-15-11.jpg",
+            "imageTwelve": "./images/project-details/dec-images-15-12.jpg"
         }
     }
 ]

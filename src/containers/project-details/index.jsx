@@ -668,13 +668,13 @@ const ProjectDetailsContainer = ({ data }) => {
                 data-aos-duration="1200"
             >
                 {/* horizontal image */}
-                {/* <div className="details-images section-padding-02 mt-n2">
+                <div className="details-images section-padding-02 mt-n2">
                     <img
-                        src={`${process.env.PUBLIC_URL}/${data.gallery.imageSeven}`}
+                        src={`${process.env.PUBLIC_URL}/${data.gallery.imageTwelve}`}
                         alt="Project Details"
                         onError={(e) => e.target.style.display = 'none'}
                     />
-                </div> */}
+                </div>
 
                 <div className="details-social" data-aos="fade-up">
                     <h5 className="details-label">Share on social</h5>
