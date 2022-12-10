@@ -355,8 +355,8 @@
     {
         "id": 12,
         "media": {
-            "thumb": "./images/project/project-1.jpg",
-            "image": "./images/project-details/project-details-1.jpg"
+            "thumb": "./images/project/project-12.jpg",
+            "image": "./images/project-details/project-details-12.jpg"
         },
         "title": "Macrotronic",
         "categories": [
@@ -368,23 +368,76 @@
         "service": "React",
         "subTitle": "Ideas & Concept",
         "body": [
-            "<p>A Line Follower Robot, as the name suggests, is an automated guided vehicle, which follow a visual line embedded on the floor or ceiling. Usually, the visual line is the path in which the line follower robot goes and it will be a black line on a white surface but the other way (white line on a black surface) is also possible.</p>",
-            "<p>Components:</p>",
-            "<p>Sensors (IR Sensor): We have used IR Sensor Module as the line detecting sensor for the project. It consists of an IR LED and a Photo diode and some other components like comparator, LED etc. Controller (Arduino UNO): Arduino UNO is the main controller in the project. The data from the sensors (IR Sensors) will be given to Arduino and it gives corresponding signals to the Motor Driver IC. Motor Driver (L293D): L293D Motor Driver IC is used in this project to drive the motors of the robot. It receives signals from Arduino based on the information from the IR Sensors. Motors (Geared Motors): We have used two geared motors at the rear of the line follower robot. These motors provide more torque than normal motors and can be used for carrying some load as well.</p>",
-            "<p>Working:</p>",
-            "<p>In this project, we have designed an Arduino based Line Follower Robot. The working of the project is pretty simple: detect the black line on the surface and move along that line. The detailed working is explained here.</p>",
-            "<p>We need sensors to detect the line. For line detection logic, we used two IR Sensors, which consists of IR LED and Photodiode. They are placed in a reflective way i.e. side – by – side so that whenever they come in to proximity of a reflective surface, the light emitted by IR LED will be detected by Photo diode. In case of black surface, which has a low reflectance, the light gets completely absorbed by the black surface and doesn’t reach the photodiode.</p>",
-            "<p>Using the same principle, we will setup the IR Sensors on the Line Follower Robot such that the two IR Sensors are on the either side of the black line on the floor.</p>",
-            "<p>When the robot moves forward, both the sensors wait for the line to be detected. For example, if the IR Sensor 1 in the above image detects the black line, it means that there is a right curve (or turn) ahead.</p>",
-            "<p>Arduino detects this change and sends signal to motor driver accordingly. In order to turn right, the motor on the right side of the robot is slowed down using PWM, while the motor on the left side is run at normal speed.</p>"
+            "<p>Macrotronics is an e-commerce website that aims to eradicate the problems faced by many people while choosing appropriate products along with their peripherals. We are building this website to assist people in choosing the best products available in the market.</p>",
+            "<p>When users land on an e-commerce site, they expect to find what they are looking for quickly and easily. Also, users are not sure about the brands or the actual products they want to purchase. They have a very broad idea about what they want to buy. Many customers nowadays search for their products on Google rather than visiting specific e-commerce sites. They believe that Google will take them to the e-commerce sites that have their product. Nowadays, computers have become a vital part of our day to day lives. Due to the pandemic, classes are being conducted online and the requirement of laptops and computers has grown rapidly. Most people are unaware/confused as to which laptop they should buy that fits their budget.</p>",
+            "<p>Objectives This research work is conducted in order to:<br /> • Build a responsive E-commerce site with suitable features for computer enthusiasts and gamers.<br /> • Build a chat-bot that helps customers to find suitable products</p>"
         ],
         "quote": "",
         "name": "Shaurabh R. Tuladhar",
         "designation": "",
         "gallery": {
-            "imageOne": "./images/project-details/dec-images-1-1.jpg",
-            "imageTwo": "./images/project-details/dec-images-1-2.jpg"
+            "imageOne": "./images/project-details/dec-images-12-1.jpg",
+            "imageTwo": "./images/project-details/dec-images-12-2.jpg"
         },
-        "link": "https://github.com/ShaurabhT/Line_Following"
+        "link": "https://github.com/ShaurabhT/Macrotronics"
+    },
+    {
+        "id": 13,
+        "media": {
+            "thumb": "./images/project/project-13.jpg",
+            "image": "./images/project-details/project-details-13.jpg"
+        },
+        "title": "Sketches",
+        "categories": [
+            "Sketches"
+        ],
+        "challenge": "Concept",
+        "date": "-",
+        "team": "-",
+        "service": "React",
+        "subTitle": "Ideas & Concept",
+        "body": [
+            "<p>Drawings</p>"
+        ],
+        "quote": "",
+        "name": "Shaurabh R. Tuladhar",
+        "designation": "",
+        "gallery": {
+            "imageOne": "./images/project-details/dec-images-13-1.jpg",
+            "imageTwo": "./images/project-details/dec-images-13-2.jpg",
+            "imageThree": "./images/project-details/dec-images-13-3.jpg",
+            "imageFour": "./images/project-details/dec-images-13-4.jpg",
+            "imageFive": "./images/project-details/dec-images-13-5.jpg"
+        }
+    },
+    {
+        "id": 14,
+        "media": {
+            "thumb": "images/project/project-14.jpg",
+            "image": "./images/project-details/project-details-14.jpg"
+        },
+        "title": "3D Designs",
+        "categories": [
+            "3D"
+        ],
+        "challenge": "Logo Designs ,Animation",
+        "date": "-",
+        "team": "",
+        "service": "Cinema 4d ,Blender ,After Effect ,Premier Pro",
+        "subTitle": "Ideas & Concept",
+        "body": [
+            "<p>3D stuff for fun</p>"
+        ],
+        "quote": "",
+        "name": "Shaurabh R. Tuladhar",
+        "designation": "",
+        "gallery": {
+            "imageOne": "./images/project-details/dec-images-14-1.jpg",
+            "imageTwo": "./images/project-details/dec-images-14-2.jpg"
+        },
+        "video": {
+            "One": "./images/project-details/3d-1.mp4",
+            "Two": "./images/project-details/3d-2.mp4"
+        }
     }
 ]
