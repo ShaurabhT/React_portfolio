@@ -86,7 +86,7 @@ const HamburgerMenu = ({ show, onClose }) => {
                                 Project
                             </NavLink>
 
-                            <span
+                            {/* <span
                                 className="mobile-menu-expand"
                                 onClick={onClickHandler}
                                 aria-hidden="true"
@@ -110,14 +110,14 @@ const HamburgerMenu = ({ show, onClose }) => {
                                         Project Details
                                     </NavLink>
                                 </li>
-                            </ul>
+                            </ul> */}
                         </li>
                         <li>
                             <NavLink to={process.env.PUBLIC_URL + "/blog"}>
-                                Blog
+                                Blogs
                             </NavLink>
 
-                            <span
+                            {/* <span
                                 className="mobile-menu-expand"
                                 onClick={onClickHandler}
                                 aria-hidden="true"
@@ -141,7 +141,7 @@ const HamburgerMenu = ({ show, onClose }) => {
                                         Blog Details
                                     </NavLink>
                                 </li>
-                            </ul>
+                            </ul> */}
                         </li>
                         <li>
                             <NavLink to={process.env.PUBLIC_URL + "/contact"}>

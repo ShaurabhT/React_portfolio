@@ -1,5 +1,6 @@
 import ContactForm from "../../components/contact-form";
 
+
 const ContactContainer = () => {
     return (
         <div className="section contact-section bg-dark">
@@ -16,13 +17,13 @@ const ContactContainer = () => {
                         <div className="contact-section-wrapper">
                             <div className="contact-info" data-aos="fade-up">
                                 <span className="mail">
-                                    <a href="mailto:someone@example.com">
-                                        hello@andle.com
+                                    <a href="mailto:shaurabh19@gmail.com">
+                                        shaurabh19@gmail.com
                                     </a>
                                 </span>
                                 <span className="number">
-                                    <a href="tel:+012345678900">
-                                        (+012) 345 67 89 00
+                                    <a href="tel:+977 9843641268">
+                                        (+977) 9843641268
                                     </a>
                                 </span>
                             </div>
@@ -32,6 +33,7 @@ const ContactContainer = () => {
                                 data-aos="fade-up"
                                 data-aos-duration="600"
                             >
+
                                 <ContactForm />
                             </div>
 
@@ -46,9 +48,9 @@ const ContactContainer = () => {
                                             rel="noopener noreferrer"
                                             target="_blank"
                                             className="dribbble"
-                                            href="https://dribbble.com/"
+                                            href="https://instagram.com/shaurabh_"
                                         >
-                                            Dribbble
+                                            Instagram
                                         </a>
                                     </li>
                                     <li>
@@ -56,9 +58,9 @@ const ContactContainer = () => {
                                             rel="noopener noreferrer"
                                             target="_blank"
                                             className="behance"
-                                            href="https://www.behance.net/"
+                                            href="https://www.facebook.com/shaurabht"
                                         >
-                                            Behance
+                                            Facebook
                                         </a>
                                     </li>
                                     <li>
@@ -66,7 +68,7 @@ const ContactContainer = () => {
                                             rel="noopener noreferrer"
                                             target="_blank"
                                             className="twitter"
-                                            href="https://twitter.com/"
+                                            href="https://twitter.com/shaurabh19"
                                         >
                                             Twitter
                                         </a>

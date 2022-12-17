@@ -111,7 +111,7 @@ const WorkContainer = () => {
                                                 active: activeTab === "3",
                                             })}
                                             onClick={() => {
-                                                parent.location = process.env.PUBLIC_URL + "/about"
+                                                parent.location = process.env.PUBLIC_URL + "#/about"
                                             }}
                                         >
                                             More

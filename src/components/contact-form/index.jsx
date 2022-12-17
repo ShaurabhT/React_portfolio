@@ -4,10 +4,12 @@ const ContactForm = () => {
     const { register, errors } = useForm({
         mode: "onBlur",
     });
+
+
     return (
         <form
             id="contact-form"
-            action="https://getform.io/f/a17a2715-d7ee-4ac4-8fcb-12f1eed43b2c"
+            action="https://getform.io/f/d3f69f08-d513-41a5-a135-9b5561f00743"
             method="POST"
         >
             <div className="row">
@@ -65,6 +67,7 @@ const ContactForm = () => {
                     </div>
                 </div>
                 <p className="form-message"></p>
+
                 <div className="col-md-12">
                     <div className="form-btn">
                         <button type="submit">Send Message</button>
