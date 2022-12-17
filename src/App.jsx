@@ -1,6 +1,6 @@
 import AOS from "aos";
 import { useEffect } from "react";
-import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
+import { BrowserRouter as Router, Route, Switch, HashRouter } from "react-router-dom";
 import HomePage from "./pages/index";
 import AboutPage from "./pages/about";
 import PricingPage from "./pages/pricing";
@@ -34,63 +34,65 @@ const App = () => {
         AOS.refresh();
     }, []);
     return (
-        <Router>
-            <NavScrollTop>
-                <Switch>
-                    <Route
-                        path={`${process.env.PUBLIC_URL + "/"}`}
-                        exact
-                        component={HomePage}
-                    />
-                    <Route
-                        path={`${process.env.PUBLIC_URL + "/about"}`}
-                        component={AboutPage}
-                    />
-                    <Route
-                        path={`${process.env.PUBLIC_URL + "/pricing"}`}
-                        component={PricingPage}
-                    />
-                    <Route
-                        path={`${process.env.PUBLIC_URL + "/project"}`}
-                        component={ProjectPage}
-                    />
+        <HashRouter>
+            <Router>
+                <NavScrollTop>
+                    <Switch>
+                        <Route
+                            path={`${process.env.PUBLIC_URL + "/"}`}
+                            exact
+                            component={HomePage}
+                        />
+                        <Route
+                            path={`${process.env.PUBLIC_URL + "/about"}`}
+                            component={AboutPage}
+                        />
+                        <Route
+                            path={`${process.env.PUBLIC_URL + "/pricing"}`}
+                            component={PricingPage}
+                        />
+                        <Route
+                            path={`${process.env.PUBLIC_URL + "/project"}`}
+                            component={ProjectPage}
+                        />
 
-                    <Route
-                        // prettier-ignore
-                        path={`${process.env.PUBLIC_URL + "/project-detalis/:id"}`}
-                        component={ProjectDetails}
-                    />
-                    <Route
-                        path={`${process.env.PUBLIC_URL + "/blog"}`}
-                        component={BlogPage}
-                    />
-                    <Route
-                        path={`${process.env.PUBLIC_URL + "/blog-details/:id"}`}
-                        component={BlogDetails}
-                    />
-                    <Route
-                        path={`${process.env.PUBLIC_URL + "/category/:slug"}`}
-                        component={BlogCategory}
-                    />
-                    <Route
-                        path={`${process.env.PUBLIC_URL + "/date/:date"}`}
-                        component={BlogDate}
-                    />
-                    <Route
-                        path={`${process.env.PUBLIC_URL + "/author/:author"}`}
-                        component={BlogAuthor}
-                    />
-                    <Route
-                        path={`${process.env.PUBLIC_URL + "/tag/:slug"}`}
-                        component={BlogTag}
-                    />
-                    <Route
-                        path={`${process.env.PUBLIC_URL + "/contact"}`}
-                        component={ContactPage}
-                    />
-                </Switch>
-            </NavScrollTop>
-        </Router>
+                        <Route
+                            // prettier-ignore
+                            path={`${process.env.PUBLIC_URL + "/project-detalis/:id"}`}
+                            component={ProjectDetails}
+                        />
+                        <Route
+                            path={`${process.env.PUBLIC_URL + "/blog"}`}
+                            component={BlogPage}
+                        />
+                        <Route
+                            path={`${process.env.PUBLIC_URL + "/blog-details/:id"}`}
+                            component={BlogDetails}
+                        />
+                        <Route
+                            path={`${process.env.PUBLIC_URL + "/category/:slug"}`}
+                            component={BlogCategory}
+                        />
+                        <Route
+                            path={`${process.env.PUBLIC_URL + "/date/:date"}`}
+                            component={BlogDate}
+                        />
+                        <Route
+                            path={`${process.env.PUBLIC_URL + "/author/:author"}`}
+                            component={BlogAuthor}
+                        />
+                        <Route
+                            path={`${process.env.PUBLIC_URL + "/tag/:slug"}`}
+                            component={BlogTag}
+                        />
+                        <Route
+                            path={`${process.env.PUBLIC_URL + "/contact"}`}
+                            component={ContactPage}
+                        />
+                    </Switch>
+                </NavScrollTop>
+            </Router>
+        </HashRouter>
     );
 };
 
