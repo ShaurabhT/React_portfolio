@@ -6,193 +6,47 @@
             "thumb": "/images/blog/blog-1.jpg",
             "largeImage": "/images/blog/blog-details.jpg"
         },
-        "author": "Owen Christ",
+        "author": "Shaurabh Tuladhar",
         "date": "April 25th, 2021",
         "categories": [
-            "news",
-            "inspiration"
+            "job",
+            "competitive advantage"
         ],
-        "title": "Standard article with image format",
-        "excerpt": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat...",
+        "title": "What is job leveling and why can it be a competitive advantage?",
+        "excerpt": "Learn about the new approach to job leveling, part of Pando’s just-in-time career progression paradigm",
         "body": [
-            "<h2 class='blog-title'>Pinterest, cornhole meditation Blue Bottle art party <br> meggings cardigan yr sustainable. Letterpress McSwepen, <br> poieney’s fap</h2>",
-            "<p>Today most people get on average 4 to 6 hours of exercise every day, and make sure that everything they put in their mouths is not filled with sugars or preservatives, but they pay no attention to their mental health, no vacations, not even the occasional long weekend. All of this for hopes of one day getting that big promotion. <br> <br> Coventry is a city with a thousand years of history that has plenty to offer the visiting tourist. Located in the heart of Warwickshire.</p>",
-            "<blockquote class='blockquote-2'><p>“The forms that designers <br> produce are flexible, so long as the <br> results serve the need.”</p><div class='author-name'>Alex Ferguson</div></blockquote>",
-            "<p>Cray post-ironic plaid, Helvetica keffiyeh tousled Carles banjo before they sold out blog photo booth Marfa semiotics Truffaut. Mustache Schlitz next level blog Williamsburg, deep v typewriter tote bag Banksy +1 literally. Lomo 8-bit pour-over mumblecore photo booth. Kitsch pork belly cred, small batch butcher selvage direct trade. Master cleanse Bushwick cornhole narwhal plaid. Seitan vegan Portland, master cleanse gluten-free fanny pack raw denim hoodie YOLO loko.</p>"
+            "<p>Earlier in my career when I asked for a promotion, my boss told me, “You are too young! Just relax! It will happen when it’s meant to happen.I spent the next year talking to him and HR to clarify the next steps, with no luck. Our company was known for taking decades to move people up the career ladder, and the promotion process was infrequent.In my case, I had more achievements to show than my peers with longer tenure, but it was unconventional to ask for and get a promotion without spending decades there.</p>",
+            "<p>The company I worked for was a detailed framework to define someone’s level and compensation at the time of joining, yet it didn't provide a path for growth. I was one of the many people who saw leaving the company as the only way to move their careers forward.</p>",
+            "<p>In this post, I explain how companies can turn their job leveling from a source of employee frustration and attrition to a competitive advantage for attracting and retaining top talent.</p>",
+            "<h2 class='blog-title'><br>Job leveling: What is it, and what are the issues?</h2>",
+            "<p>A job level defines the seniority and expectations of a role. It sounds pretty simple, but job leveling – the process of grouping job levels and ranking them into a hierarchy – has been one of the most persistent challenges in many organizations. It’s time-consuming and if we are honest, not the most exciting project.</p>",
+            "<p>How job levels are created, used, and shared across organizations are more reasons why job leveling is such an arduous process:</p>",
+            "<h2 class='blog-title'><br>Generic salary band data dictates the number of job levels</h2>",
+            "<p>The business strategy, company culture, and growth rate should drive the number of job levels, but that isn’t always the case. Companies need to use comp benchmarks to develop salary bands and thus, they typically use the benchmark generic leveling for frameworks. By doing that, they miss the opportunity to customize job levels strategically.</p>",
+            "<h2 class='blog-title'><br>Job levels are kept out of sight, and as a result, out of mind</h2>",
+            "<p>Since job levels are the by-product of salary bands, it contributes to companies keeping job levels under wraps. That often means only HR and recruitment see the complete picture. A hiring manager’s view is partial, limited to hiring and salary raise events and individual contributors don’t have any visibility. That means the critical function of job levels – setting the expectations of a role – is often unfulfilled. Additionally, without visibility, a lack of transparency creates a perceived or actual bias or favoritism related to promotion decisions.</p>",
+            "<h2 class='blog-title'><br>The discrepancy in the number of functional job levels creates pay disparity</h2>",
+            "<p>In all my previous roles, every function had a separate job leveling approach. In the Fortune500 company I mentioned earlier, marketing had nine levels, and engineering had fifteen. That created a tremendous pay disparity between the two functions because engineers had six more levels to advance their careers and compensation. The situation reinforced the gender pay gap because there were more men in engineering and more women in marketing departments.</p>",
+            "<h2 class='blog-title'><br>The discrepancy in the number of functional job levels creates pay disparity</h2>",
+            "<p>In all my previous roles, every function had a separate job leveling approach. In the Fortune500 company I mentioned earlier, marketing had nine levels, and engineering had fifteen. That created a tremendous pay disparity between the two functions because engineers had six more levels to advance their careers and compensation. The situation reinforced the gender pay gap because there were more men in engineering and more women in marketing departments.</p>",
+            "<h2 class='blog-title'><br>The new paradigm: turning job levels into a competitive advantage</h2>",
+            "<p>Here is the elephant in the room: the current approach to job leveling isn’t serving us. It contributes to performance and promotion biases, pay disparity, and attrition. At the end of the day, if your employees aren’t growing with you, they look for opportunities elsewhere.</p>",
+            "<p>Meet the new approach to job leveling, part of Pando’s just-in-time career progression paradigm:</p>",
+            "<h2 class='blog-title'><br>Business goals drive the number of job levels</h2>",
+            "<p>Job leveling shouldn’t be static or based on a generic compensation benchmark. Instead, your leveling framework should scale as you grow, leaving plenty of room for individual contributors (ICs), middle and senior-level employees to be added to the org and still have room to progress. At Pando, we consider the current size and complexity of our customers’ organizations (number of employees, managers, and layers of managers) and their growth rate to create scalable job leveling frameworks.</p>",
+            "<h2 class='blog-title'><br>More levels make growth and compensation more equitable</h2>",
+            "<p>More levels create more momentum and step progressions, so employees continuously feel they are developing and progressing in their careers. They also make compensation more fair because the salary bands are narrower, leaving less room for perceived or actual bias. Many companies are stuck with too few levels because creating more levels is a lot of work. Pando takes all the hassle out, offering built-in, well-defined job levels and competencies for all roles and functions.</p>",
+            "<h2 class='blog-title'><br>People management isn’t the only path for career progression</h2>",
+            "<p>Leadership isn’t for everyone, but at times, people become managers because that’s the only way to grow their careers. Creating parallel tracks for individual contributors and managers challenges the perception of people management as the only option for career advancement.</p>",
+            "<h2 class='blog-title'><br>Job levels aren’t for HR eyes only</h2>",
+            "<p>Transparency brings accountability, not just for HR but also for managers and employees. It gives employees control over their career path, keeps managers focused on the right things, and shows HR where there are pay gaps</p>",
+            "<h2 class='blog-title'><br>From promotion scarcity to progression for all</h2>",
+            "<p>Getting a promotion looks like jumping through numerous hoops for everyone involved: deciding who gets promoted, title changes and compensation adjustments are some of the more complex questions. Some companies have resorted to decoupling performance management and compensation to address the issue, and we couldn’t disagree more. Having more levels and narrower comp bands can help your people build mastery and shift the conversation from promotion and job titles to an iterative, step-by-step progression.</p>",
+            "<blockquote class='blockquote-2'><p>“Desire! That’s the one secret of every man’s career. Not education. Not being born with hidden talents. Desire.”</p><div class='author-name'>Bobby Unser</div></blockquote>"
         ],
         "tags": [
-            "Inspiration",
-            "Workspace",
-            "Minimal",
-            "Decoation"
-        ]
-    },
-    {
-        "id": 2,
-        "className": "col-lg-6",
-        "media": {
-            "thumb": "/images/blog/blog-2.jpg",
-            "largeImage": "/images/blog/blog-details.jpg"
-        },
-        "author": "admin",
-        "date": "May 24th, 2021",
-        "categories": [
-            "experience",
-            "inspiration"
-        ],
-        "title": "How your sales can work together in account-based marketing",
-        "excerpt": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat...",
-        "body": [
-            "<h2 class='blog-title'>Pinterest, cornhole meditation Blue Bottle art party <br> meggings cardigan yr sustainable. Letterpress McSwepen, <br> poieney’s fap</h2>",
-            "<p>Today most people get on average 4 to 6 hours of exercise every day, and make sure that everything they put in their mouths is not filled with sugars or preservatives, but they pay no attention to their mental health, no vacations, not even the occasional long weekend. All of this for hopes of one day getting that big promotion. <br> <br> Coventry is a city with a thousand years of history that has plenty to offer the visiting tourist. Located in the heart of Warwickshire.</p>",
-            "<blockquote class='blockquote-2'><p>“The forms that designers <br> produce are flexible, so long as the <br> results serve the need.”</p><div class='author-name'>Alex Ferguson</div></blockquote>",
-            "<p>Cray post-ironic plaid, Helvetica keffiyeh tousled Carles banjo before they sold out blog photo booth Marfa semiotics Truffaut. Mustache Schlitz next level blog Williamsburg, deep v typewriter tote bag Banksy +1 literally. Lomo 8-bit pour-over mumblecore photo booth. Kitsch pork belly cred, small batch butcher selvage direct trade. Master cleanse Bushwick cornhole narwhal plaid. Seitan vegan Portland, master cleanse gluten-free fanny pack raw denim hoodie YOLO loko.</p>"
-        ],
-        "tags": [
-            "Inspiration",
-            "Workspace",
-            "Minimal",
-            "Decoation"
-        ]
-    },
-    {
-        "id": 3,
-        "className": "col-lg-6",
-        "media": {
-            "thumb": "/images/blog/blog-3.jpg",
-            "largeImage": "/images/blog/blog-details.jpg"
-        },
-        "author": "admin",
-        "date": "July 15th, 2021",
-        "categories": [
-            "community",
-            "experience"
-        ],
-        "title": "The Desolate Beauty  of Greenland",
-        "excerpt": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat...",
-        "body": [
-            "<h2 class='blog-title'>Pinterest, cornhole meditation Blue Bottle art party <br> meggings cardigan yr sustainable. Letterpress McSwepen, <br> poieney’s fap</h2>",
-            "<p>Today most people get on average 4 to 6 hours of exercise every day, and make sure that everything they put in their mouths is not filled with sugars or preservatives, but they pay no attention to their mental health, no vacations, not even the occasional long weekend. All of this for hopes of one day getting that big promotion. <br> <br> Coventry is a city with a thousand years of history that has plenty to offer the visiting tourist. Located in the heart of Warwickshire.</p>",
-            "<blockquote class='blockquote-2'><p>“The forms that designers <br> produce are flexible, so long as the <br> results serve the need.”</p><div class='author-name'>Alex Ferguson</div></blockquote>",
-            "<p>Cray post-ironic plaid, Helvetica keffiyeh tousled Carles banjo before they sold out blog photo booth Marfa semiotics Truffaut. Mustache Schlitz next level blog Williamsburg, deep v typewriter tote bag Banksy +1 literally. Lomo 8-bit pour-over mumblecore photo booth. Kitsch pork belly cred, small batch butcher selvage direct trade. Master cleanse Bushwick cornhole narwhal plaid. Seitan vegan Portland, master cleanse gluten-free fanny pack raw denim hoodie YOLO loko.</p>"
-        ],
-        "tags": [
-            "Inspiration",
-            "Workspace",
-            "Minimal",
-            "Decoation"
-        ]
-    },
-    {
-        "id": 4,
-        "className": "col-lg-6",
-        "media": {
-            "thumb": "/images/blog/blog-4.jpg",
-            "largeImage": "/images/blog/blog-details.jpg"
-        },
-        "author": "Owen Christ",
-        "date": "June 25th, 2024",
-        "categories": [
-            "inspiration",
-            "community"
-        ],
-        "title": "The Photographer Platform",
-        "excerpt": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat...",
-        "body": [
-            "<h2 class='blog-title'>Pinterest, cornhole meditation Blue Bottle art party <br> meggings cardigan yr sustainable. Letterpress McSwepen, <br> poieney’s fap</h2>",
-            "<p>Today most people get on average 4 to 6 hours of exercise every day, and make sure that everything they put in their mouths is not filled with sugars or preservatives, but they pay no attention to their mental health, no vacations, not even the occasional long weekend. All of this for hopes of one day getting that big promotion. <br> <br> Coventry is a city with a thousand years of history that has plenty to offer the visiting tourist. Located in the heart of Warwickshire.</p>",
-            "<blockquote class='blockquote-2'><p>“The forms that designers <br> produce are flexible, so long as the <br> results serve the need.”</p><div class='author-name'>Alex Ferguson</div></blockquote>",
-            "<p>Cray post-ironic plaid, Helvetica keffiyeh tousled Carles banjo before they sold out blog photo booth Marfa semiotics Truffaut. Mustache Schlitz next level blog Williamsburg, deep v typewriter tote bag Banksy +1 literally. Lomo 8-bit pour-over mumblecore photo booth. Kitsch pork belly cred, small batch butcher selvage direct trade. Master cleanse Bushwick cornhole narwhal plaid. Seitan vegan Portland, master cleanse gluten-free fanny pack raw denim hoodie YOLO loko.</p>"
-        ],
-        "tags": [
-            "Inspiration",
-            "Workspace",
-            "Minimal",
-            "Decoation"
-        ]
-    },
-    {
-        "id": 5,
-        "className": "col-lg-6",
-        "media": {
-            "thumb": "/images/blog/blog-5.jpg",
-            "largeImage": "/images/blog/blog-details.jpg"
-        },
-        "author": "admin",
-        "date": "April 25th, 2021",
-        "categories": [
-            "news",
-            "experience"
-        ],
-        "title": "Tellus Adipiscing Nibh Mattis",
-        "excerpt": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat...",
-        "body": [
-            "<h2 class='blog-title'>Pinterest, cornhole meditation Blue Bottle art party <br> meggings cardigan yr sustainable. Letterpress McSwepen, <br> poieney’s fap</h2>",
-            "<p>Today most people get on average 4 to 6 hours of exercise every day, and make sure that everything they put in their mouths is not filled with sugars or preservatives, but they pay no attention to their mental health, no vacations, not even the occasional long weekend. All of this for hopes of one day getting that big promotion. <br> <br> Coventry is a city with a thousand years of history that has plenty to offer the visiting tourist. Located in the heart of Warwickshire.</p>",
-            "<blockquote class='blockquote-2'><p>“The forms that designers <br> produce are flexible, so long as the <br> results serve the need.”</p><div class='author-name'>Alex Ferguson</div></blockquote>",
-            "<p>Cray post-ironic plaid, Helvetica keffiyeh tousled Carles banjo before they sold out blog photo booth Marfa semiotics Truffaut. Mustache Schlitz next level blog Williamsburg, deep v typewriter tote bag Banksy +1 literally. Lomo 8-bit pour-over mumblecore photo booth. Kitsch pork belly cred, small batch butcher selvage direct trade. Master cleanse Bushwick cornhole narwhal plaid. Seitan vegan Portland, master cleanse gluten-free fanny pack raw denim hoodie YOLO loko.</p>"
-        ],
-        "tags": [
-            "Inspiration",
-            "Workspace",
-            "Minimal",
-            "Decoation"
-        ]
-    },
-    {
-        "id": 6,
-        "className": "col-lg-6",
-        "media": {
-            "thumb": "/images/blog/blog-6.jpg",
-            "largeImage": "/images/blog/blog-details.jpg"
-        },
-        "author": "admin",
-        "date": "June 25th, 2024",
-        "categories": [
-            "experience",
-            "inspiration"
-        ],
-        "title": "Tellus Vulputate Fermentum Dolor",
-        "excerpt": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat...",
-        "body": [
-            "<h2 class='blog-title'>Pinterest, cornhole meditation Blue Bottle art party <br> meggings cardigan yr sustainable. Letterpress McSwepen, <br> poieney’s fap</h2>",
-            "<p>Today most people get on average 4 to 6 hours of exercise every day, and make sure that everything they put in their mouths is not filled with sugars or preservatives, but they pay no attention to their mental health, no vacations, not even the occasional long weekend. All of this for hopes of one day getting that big promotion. <br> <br> Coventry is a city with a thousand years of history that has plenty to offer the visiting tourist. Located in the heart of Warwickshire.</p>",
-            "<blockquote class='blockquote-2'><p>“The forms that designers <br> produce are flexible, so long as the <br> results serve the need.”</p><div class='author-name'>Alex Ferguson</div></blockquote>",
-            "<p>Cray post-ironic plaid, Helvetica keffiyeh tousled Carles banjo before they sold out blog photo booth Marfa semiotics Truffaut. Mustache Schlitz next level blog Williamsburg, deep v typewriter tote bag Banksy +1 literally. Lomo 8-bit pour-over mumblecore photo booth. Kitsch pork belly cred, small batch butcher selvage direct trade. Master cleanse Bushwick cornhole narwhal plaid. Seitan vegan Portland, master cleanse gluten-free fanny pack raw denim hoodie YOLO loko.</p>"
-        ],
-        "tags": [
-            "Inspiration",
-            "Workspace",
-            "Minimal",
-            "Decoation"
-        ]
-    },
-    {
-        "id": 7,
-        "className": "col-lg-12",
-        "media": {
-            "thumb": "/images/blog/blog-7.jpg",
-            "largeImage": "/images/blog/blog-details.jpg"
-        },
-        "author": "Owen Christ",
-        "date": "July 15th, 2021",
-        "categories": [
-            "community",
-            "inspiration"
-        ],
-        "title": "Fusce Mattis Euismod Ridiculus Tortor",
-        "excerpt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate..",
-        "body": [
-            "<h2 class='blog-title'>Pinterest, cornhole meditation Blue Bottle art party <br> meggings cardigan yr sustainable. Letterpress McSwepen, <br> poieney’s fap</h2>",
-            "<p>Today most people get on average 4 to 6 hours of exercise every day, and make sure that everything they put in their mouths is not filled with sugars or preservatives, but they pay no attention to their mental health, no vacations, not even the occasional long weekend. All of this for hopes of one day getting that big promotion. <br> <br> Coventry is a city with a thousand years of history that has plenty to offer the visiting tourist. Located in the heart of Warwickshire.</p>",
-            "<blockquote class='blockquote-2'><p>“The forms that designers <br> produce are flexible, so long as the <br> results serve the need.”</p><div class='author-name'>Alex Ferguson</div></blockquote>",
-            "<p>Cray post-ironic plaid, Helvetica keffiyeh tousled Carles banjo before they sold out blog photo booth Marfa semiotics Truffaut. Mustache Schlitz next level blog Williamsburg, deep v typewriter tote bag Banksy +1 literally. Lomo 8-bit pour-over mumblecore photo booth. Kitsch pork belly cred, small batch butcher selvage direct trade. Master cleanse Bushwick cornhole narwhal plaid. Seitan vegan Portland, master cleanse gluten-free fanny pack raw denim hoodie YOLO loko.</p>"
-        ],
-        "tags": [
-            "Inspiration",
-            "Workspace",
-            "Minimal",
-            "Decoation"
+            "Inspiration,",
+            "Workspace"
         ]
     }
 ]
