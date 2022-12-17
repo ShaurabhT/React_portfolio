@@ -6,9 +6,7 @@ const Intro = ({ data }) => {
         <div
             className="single-slider d-flex align-items-center animation-style-01"
             style={{
-                backgroundImage: `url(${
-                    process.env.PUBLIC_URL + data.backgroundImage
-                })`,
+                backgroundImage: `url(${process.env.PUBLIC_URL + data.backgroundImage})`,
             }}
         >
             <span className="line"></span>

@@ -13,7 +13,6 @@ const Work = ({ data }) => {
     return (
         <div className="single-project-slide">
             <div className="thumb">
-                {console.log(data.id)}
                 <Link
                     to={process.env.PUBLIC_URL + "/project-detalis/" + data.id}
                     className="image"
@@ -29,7 +28,7 @@ const Work = ({ data }) => {
             <div className="content">
                 <h4 className="subtitle">{cate}</h4>
                 <h3 className="title">
-                    <Link to={process.env.PUBLIC_URL + "/project-detalis/1"}>
+                    <Link to={process.env.PUBLIC_URL + "/project-detalis/1"} >
                         {data.title}
                     </Link>
                 </h3>

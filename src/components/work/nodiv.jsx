@@ -24,8 +24,11 @@ const Work2 = ({ data }) => {
             </div>
 
             <div className="content">
-                <h4 className="subtitle" >{cate}</h4>
-                <h3 className="title" style={{ color: "Black" }}>
+                <h4 className="subtitle">{cate}</h4>
+                <h3 className="title">
+                    <Link to={process.env.PUBLIC_URL + "/project-detalis/1"}>
+                        {data.title}
+                    </Link>
                 </h3>
             </div>
         </div>

@@ -2,8 +2,8 @@
     {
         "id": 1,
         "media": {
-            "thumb": "./images/project/project-1.jpg",
-            "image": "./images/project-details/project-details-1.jpg"
+            "thumb": "/images/project/project-1.jpg",
+            "image": "/images/project-details/project-details-1.jpg"
         },
         "title": "Line Following Robot",
         "categories": [
@@ -29,18 +29,18 @@
         "name": "Shaurabh R. Tuladhar",
         "designation": "",
         "gallery": {
-            "imageOne": "./images/project-details/dec-images-1-1.jpg",
-            "imageTwo": "./images/project-details/dec-images-1-2.jpg"
+            "imageOne": "/images/project-details/dec-images-1-1.jpg",
+            "imageTwo": "/images/project-details/dec-images-1-2.jpg"
         },
         "link": "https://github.com/ShaurabhT/Line_Following"
     },
     {
         "id": 2,
         "media": {
-            "thumb": "./images/project/project-2.jpg",
-            "image": "./images/project-details/project-details-2.jpg"
+            "thumb": "/images/project/project-2.jpg",
+            "image": "/images/project-details/project-details-2.jpg"
         },
-        "title": "Shortest path ",
+        "title": "Shortest path",
         "categories": [
             "Mobile app"
         ],
@@ -59,16 +59,16 @@
         "name": "Shaurabh R. Tuladhar",
         "designation": "",
         "gallery": {
-            "imageOne": "./images/project-details/dec-images-2-1.jpg",
-            "imageTwo": "./images/project-details/dec-images-2-2.jpg"
+            "imageOne": "/images/project-details/dec-images-2-1.jpg",
+            "imageTwo": "/images/project-details/dec-images-2-2.jpg"
         },
         "link": "https://github.com/ShaurabhT/Ambulance"
     },
     {
         "id": 3,
         "media": {
-            "thumb": "./images/project/project-3.jpg",
-            "image": "./images/project-details/project-details-3.jpg"
+            "thumb": "/images/project/project-3.jpg",
+            "image": "/images/project-details/project-details-3.jpg"
         },
         "title": "Dietopedia",
         "categories": [
@@ -93,16 +93,16 @@
         "name": "Shaurabh R. Tuladhar",
         "designation": "",
         "gallery": {
-            "imageOne": "./images/project-details/dec-images-3-1.jpg",
-            "imageTwo": "./images/project-details/dec-images-3-2.jpg"
+            "imageOne": "/images/project-details/dec-images-3-1.jpg",
+            "imageTwo": "/images/project-details/dec-images-3-2.jpg"
         },
         "link": "https://github.com/ShaurabhT/Dietopedia"
     },
     {
         "id": 4,
         "media": {
-            "thumb": "./images/project/project-4.jpg",
-            "image": "./images/project-details/project-details-4.jpg"
+            "thumb": "/images/project/project-4.jpg",
+            "image": "/images/project-details/project-details-4.jpg"
         },
         "title": "Examination System",
         "categories": [
@@ -128,16 +128,16 @@
         "name": "Shaurabh R. Tuladhar",
         "designation": "",
         "gallery": {
-            "imageOne": "./images/project-details/dec-images-4-1.jpg",
-            "imageTwo": "./images/project-details/dec-images-4-2.jpg"
+            "imageOne": "/images/project-details/dec-images-4-1.jpg",
+            "imageTwo": "/images/project-details/dec-images-4-2.jpg"
         },
         "link": "https://github.com/ShaurabhT/Php_Examination-"
     },
     {
         "id": 5,
         "media": {
-            "thumb": "images/project/project-5.jpg",
-            "image": "./images/project-details/project-details-5.jpg"
+            "thumb": "/images/project/project-5.jpg",
+            "image": "/images/project-details/project-details-5.jpg"
         },
         "title": "KimKims Pastry",
         "categories": [
@@ -156,16 +156,16 @@
         "name": "Shaurabh R. Tuladhar",
         "designation": "",
         "gallery": {
-            "imageOne": "./images/project-details/dec-images-5-1.jpg",
-            "imageTwo": "./images/project-details/dec-images-5-2.jpg"
+            "imageOne": "/images/project-details/dec-images-5-1.jpg",
+            "imageTwo": "/images/project-details/dec-images-5-2.jpg"
         },
         "link": "https://kimkimspastry.com/#/"
     },
     {
         "id": 6,
         "media": {
-            "thumb": "images/project/project-6.jpg",
-            "image": "./images/project-details/project-details-6.jpg"
+            "thumb": "/images/project/project-6.jpg",
+            "image": "/images/project-details/project-details-6.jpg"
         },
         "title": "Calm Pokhara Event",
         "categories": [
@@ -183,18 +183,18 @@
         "name": "Shaurabh R. Tuladhar",
         "designation": "",
         "gallery": {
-            "imageOne": "./images/project-details/dec-images-6-1.jpg",
-            "imageTwo": "./images/project-details/dec-images-6-2.jpg",
-            "imageThree": "./images/project-details/dec-images-6-3.jpg",
-            "imageFour": "./images/project-details/dec-images-6-4.jpg"
+            "imageOne": "/images/project-details/dec-images-6-1.jpg",
+            "imageTwo": "/images/project-details/dec-images-6-2.jpg",
+            "imageThree": "/images/project-details/dec-images-6-3.jpg",
+            "imageFour": "/images/project-details/dec-images-6-4.jpg"
         },
         "link": "https://www.instagram.com/p/Cfv7RPsMnYX/"
     },
     {
         "id": 7,
         "media": {
-            "thumb": "images/project/project-7.jpg",
-            "image": "./images/project-details/project-details-7.jpg"
+            "thumb": "/images/project/project-7.jpg",
+            "image": "/images/project-details/project-details-7.jpg"
         },
         "title": "Kim Kim's Branding",
         "categories": [
@@ -212,18 +212,18 @@
         "name": "Shaurabh R. Tuladhar",
         "designation": "",
         "gallery": {
-            "imageOne": "./images/project-details/dec-images-7-1.jpg",
-            "imageTwo": "./images/project-details/dec-images-7-2.jpg",
-            "imageThree": "./images/project-details/dec-images-7-3.jpg",
-            "imageFour": "./images/project-details/dec-images-7-4.jpg"
+            "imageOne": "/images/project-details/dec-images-7-1.jpg",
+            "imageTwo": "/images/project-details/dec-images-7-2.jpg",
+            "imageThree": "/images/project-details/dec-images-7-3.jpg",
+            "imageFour": "/images/project-details/dec-images-7-4.jpg"
         },
         "link": "https://www.instagram.com/kimkimspastry/"
     },
     {
         "id": 8,
         "media": {
-            "thumb": "images/project/project-8.jpg",
-            "image": "./images/project-details/project-details-8.jpg"
+            "thumb": "/images/project/project-8.jpg",
+            "image": "/images/project-details/project-details-8.jpg"
         },
         "title": "House of Brainz (HOB)",
         "categories": [
@@ -242,17 +242,17 @@
         "designation": "",
         "gallery": {},
         "video": {
-            "One": "./images/project-details/houseofbrainz-1.mp4",
-            "Two": "./images/project-details/houseofbrainz-2.mp4",
-            "Three": "./images/project-details/houseofbrainz-3.mp4"
+            "One": "/images/project-details/houseofbrainz-1.mp4",
+            "Two": "/images/project-details/houseofbrainz-2.mp4",
+            "Three": "/images/project-details/houseofbrainz-3.mp4"
         },
         "link": "https://www.instagram.com/kimkimspastry/"
     },
     {
         "id": 9,
         "media": {
-            "thumb": "images/project/project-9.jpg",
-            "image": "./images/project-details/project-details-9.jpg"
+            "thumb": "/images/project/project-9.jpg",
+            "image": "/images/project-details/project-details-9.jpg"
         },
         "title": "Free time works",
         "categories": [
@@ -271,11 +271,11 @@
         "name": "Shaurabh R. Tuladhar",
         "designation": "",
         "gallery": {
-            "imageOne": "./images/project-details/dec-images-9-1.jpg",
-            "imageTwo": "./images/project-details/dec-images-9-2.jpg",
-            "imageThree": "./images/project-details/dec-images-9-3.jpg",
-            "imageFour": "./images/project-details/dec-images-9-4.jpg",
-            "imageFive": "./images/project-details/dec-images-9-5.jpg"
+            "imageOne": "/images/project-details/dec-images-9-1.jpg",
+            "imageTwo": "/images/project-details/dec-images-9-2.jpg",
+            "imageThree": "/images/project-details/dec-images-9-3.jpg",
+            "imageFour": "/images/project-details/dec-images-9-4.jpg",
+            "imageFive": "/images/project-details/dec-images-9-5.jpg"
         },
         "video": {
             "One": "https://www.youtube.com/embed/UWWWgTfaVy4",
@@ -291,8 +291,8 @@
     {
         "id": 10,
         "media": {
-            "thumb": "images/project/project-10.jpg",
-            "image": "./images/project-details/project-details-10.jpg"
+            "thumb": "/images/project/project-10.jpg",
+            "image": "/images/project-details/project-details-10.jpg"
         },
         "title": "UI UX Designs",
         "categories": [
@@ -311,17 +311,17 @@
         "name": "Shaurabh R. Tuladhar",
         "designation": "",
         "gallery": {
-            "imageOne": "./images/project-details/dec-images-10-1.jpg",
-            "imageTwo": "./images/project-details/dec-images-10-2.jpg",
-            "imageThree": "./images/project-details/dec-images-10-3.jpg",
-            "imageFour": "./images/project-details/dec-images-10-4.jpg"
+            "imageOne": "/images/project-details/dec-images-10-1.jpg",
+            "imageTwo": "/images/project-details/dec-images-10-2.jpg",
+            "imageThree": "/images/project-details/dec-images-10-3.jpg",
+            "imageFour": "/images/project-details/dec-images-10-4.jpg"
         }
     },
     {
         "id": 11,
         "media": {
-            "thumb": "images/project/project-11.jpg",
-            "image": "./images/project-details/project-details-11.jpg"
+            "thumb": "/images/project/project-11.jpg",
+            "image": "/images/project-details/project-details-11.jpg"
         },
         "title": "More Client Works",
         "categories": [
@@ -339,24 +339,24 @@
         "name": "Shaurabh R. Tuladhar",
         "designation": "",
         "gallery": {
-            "imageOne": "./images/project-details/Morework-1.jpg"
+            "imageOne": "/images/project-details/Morework-1.jpg"
         },
         "video": {
-            "One": "./images/project-details/Morework-5.mp4",
-            "Two": "./images/project-details/Morework-2.mp4",
-            "Three": "./images/project-details/Morework-3.mp4",
-            "Four": "./images/project-details/Morework-4.mp4",
-            "Five": "./images/project-details/Morework-1.mp4",
-            "Six": "./images/project-details/Morework-8.mp4",
-            "Seven": "./images/project-details/Morework-7.mp4",
-            "Eight": "./images/project-details/Morework-6.mp4"
+            "One": "/images/project-details/Morework-5.mp4",
+            "Two": "/images/project-details/Morework-2.mp4",
+            "Three": "/images/project-details/Morework-3.mp4",
+            "Four": "/images/project-details/Morework-4.mp4",
+            "Five": "/images/project-details/Morework-1.mp4",
+            "Six": "/images/project-details/Morework-8.mp4",
+            "Seven": "/images/project-details/Morework-7.mp4",
+            "Eight": "/images/project-details/Morework-6.mp4"
         }
     },
     {
         "id": 12,
         "media": {
-            "thumb": "./images/project/project-12.jpg",
-            "image": "./images/project-details/project-details-12.jpg"
+            "thumb": "/images/project/project-12.jpg",
+            "image": "/images/project-details/project-details-12.jpg"
         },
         "title": "Macrotronic",
         "categories": [
@@ -377,16 +377,16 @@
         "name": "Shaurabh R. Tuladhar",
         "designation": "",
         "gallery": {
-            "imageOne": "./images/project-details/dec-images-12-1.jpg",
-            "imageTwo": "./images/project-details/dec-images-12-2.jpg"
+            "imageOne": "/images/project-details/dec-images-12-1.jpg",
+            "imageTwo": "/images/project-details/dec-images-12-2.jpg"
         },
         "link": "https://github.com/ShaurabhT/Macrotronics"
     },
     {
         "id": 13,
         "media": {
-            "thumb": "./images/project/project-13.jpg",
-            "image": "./images/project-details/project-details-13.jpg"
+            "thumb": "/images/project/project-13.jpg",
+            "image": "/images/project-details/project-details-13.jpg"
         },
         "title": "Sketches",
         "categories": [
@@ -404,18 +404,18 @@
         "name": "Shaurabh R. Tuladhar",
         "designation": "",
         "gallery": {
-            "imageOne": "./images/project-details/dec-images-13-1.jpg",
-            "imageTwo": "./images/project-details/dec-images-13-2.jpg",
-            "imageThree": "./images/project-details/dec-images-13-3.jpg",
-            "imageFour": "./images/project-details/dec-images-13-4.jpg",
-            "imageFive": "./images/project-details/dec-images-13-5.jpg"
+            "imageOne": "/images/project-details/dec-images-13-1.jpg",
+            "imageTwo": "/images/project-details/dec-images-13-2.jpg",
+            "imageThree": "/images/project-details/dec-images-13-3.jpg",
+            "imageFour": "/images/project-details/dec-images-13-4.jpg",
+            "imageFive": "/images/project-details/dec-images-13-5.jpg"
         }
     },
     {
         "id": 14,
         "media": {
-            "thumb": "images/project/project-14.jpg",
-            "image": "./images/project-details/project-details-14.jpg"
+            "thumb": "/images/project/project-14.jpg",
+            "image": "/images/project-details/project-details-14.jpg"
         },
         "title": "3D Designs",
         "categories": [
@@ -433,20 +433,20 @@
         "name": "Shaurabh R. Tuladhar",
         "designation": "",
         "gallery": {
-            "imageOne": "./images/project-details/dec-images-14-1.jpg",
-            "imageTwo": "./images/project-details/dec-images-14-2.jpg"
+            "imageOne": "/images/project-details/dec-images-14-1.jpg",
+            "imageTwo": "/images/project-details/dec-images-14-2.jpg"
         },
         "video": {
-            "One": "./images/project-details/3d-1.mp4",
-            "Two": "./images/project-details/3d-2.mp4",
-            "Three": "./images/project-details/3d-3.mp4"
+            "One": "/images/project-details/3d-1.mp4",
+            "Two": "/images/project-details/3d-2.mp4",
+            "Three": "/images/project-details/3d-3.mp4"
         }
     },
     {
         "id": 15,
         "media": {
-            "thumb": "./images/project/project-15.jpg",
-            "image": "./images/project-details/project-details-15.jpg"
+            "thumb": "/images/project/project-15.jpg",
+            "image": "/images/project-details/project-details-15.jpg"
         },
         "title": "Photography",
         "categories": [
@@ -464,18 +464,18 @@
         "name": "Shaurabh R. Tuladhar",
         "designation": "",
         "gallery": {
-            "imageOne": "./images/project-details/dec-images-15-1.jpg",
-            "imageTwo": "./images/project-details/dec-images-15-2.jpg",
-            "imageThree": "./images/project-details/dec-images-15-3.jpg",
-            "imageFour": "./images/project-details/dec-images-15-4.jpg",
-            "imageFive": "./images/project-details/dec-images-15-5.jpg",
-            "imageSix": "./images/project-details/dec-images-15-6.jpg",
-            "imageSeven": "./images/project-details/dec-images-15-7.jpg",
-            "imageEight": "./images/project-details/dec-images-15-8.jpg",
-            "imageNine": "./images/project-details/dec-images-15-9.jpg",
-            "imageTen": "./images/project-details/dec-images-15-10.jpg",
-            "imageEleven": "./images/project-details/dec-images-15-11.jpg",
-            "imageTwelve": "./images/project-details/dec-images-15-12.jpg"
+            "imageOne": "/images/project-details/dec-images-15-1.jpg",
+            "imageTwo": "/images/project-details/dec-images-15-2.jpg",
+            "imageThree": "/images/project-details/dec-images-15-3.jpg",
+            "imageFour": "/images/project-details/dec-images-15-4.jpg",
+            "imageFive": "/images/project-details/dec-images-15-5.jpg",
+            "imageSix": "/images/project-details/dec-images-15-6.jpg",
+            "imageSeven": "/images/project-details/dec-images-15-7.jpg",
+            "imageEight": "/images/project-details/dec-images-15-8.jpg",
+            "imageNine": "/images/project-details/dec-images-15-9.jpg",
+            "imageTen": "/images/project-details/dec-images-15-10.jpg",
+            "imageEleven": "/images/project-details/dec-images-15-11.jpg",
+            "imageTwelve": "/images/project-details/dec-images-15-12.jpg"
         }
     }
 ]

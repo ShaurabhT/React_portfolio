@@ -12,7 +12,7 @@ const AboutBannerContainer = () => {
                 </div>
 
                 <div className="about-banner-image">
-                    <img src="/images/about-images-2.jpg" alt="Shaurabh" />
+                    <img src="./images/about-images-2.jpg" alt="Shaurabh" />
                 </div>
             </div>
 

@@ -1,6 +1,6 @@
 {
-  "homepage": ".",
   "name": "react-eslint-starter",
+  "homepage": "https://shaurabht.github.io/React_portfolio/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

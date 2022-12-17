@@ -21,23 +21,23 @@
         "brand": [
             {
                 "id": 1,
-                "image": "./images/clients/client-1.png"
+                "image": "/images/clients/client-1.png"
             },
             {
                 "id": 2,
-                "image": "./images/clients/client-2.png"
+                "image": "/images/clients/client-2.png"
             },
             {
                 "id": 3,
-                "image": "./images/clients/client-3.png"
+                "image": "/images/clients/client-3.png"
             },
             {
                 "id": 4,
-                "image": "./images/clients/client-4.png"
+                "image": "/images/clients/client-4.png"
             },
             {
                 "id": 5,
-                "image": "./images/clients/client-5.png"
+                "image": "/images/clients/client-5.png"
             }
         ]
     },
@@ -63,7 +63,7 @@
             },
             {
                 "id": "4",
-                "icon": "icofont-live-earth",
+                "icon": "icofont-earth",
                 "title": "Experienced",
                 "excerpt": "From logo designing ,animation to making your website come to life.  "
             }
@@ -73,18 +73,18 @@
         "funfact": [
             {
                 "id": 1,
-                "number": 80,
+                "number": 20,
                 "title": "Works"
             },
             {
                 "id": 2,
-                "number": 125,
-                "title": "Khai K lekhne"
+                "number": 10,
+                "title": "project completed "
             },
             {
                 "id": 3,
-                "number": 10,
-                "title": "project completed <br />"
+                "number": 4,
+                "title": "Languages<br />"
             }
         ]
     },

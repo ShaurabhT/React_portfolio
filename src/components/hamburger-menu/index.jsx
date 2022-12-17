@@ -42,7 +42,7 @@ const HamburgerMenu = ({ show, onClose }) => {
                 </div>
                 <div className="logo">
                     <Logo
-                        image={`${process.env.PUBLIC_URL}/images/logo-2.png`}
+                        image="/images/logo-2.png"
                     />
                 </div>
                 <div className="primary-menu">
@@ -58,12 +58,13 @@ const HamburgerMenu = ({ show, onClose }) => {
                             </NavLink>
 
                             <span
-                                className="mobile-menu-expand"
+                                className="mobile-menu"
                                 onClick={onClickHandler}
                                 aria-hidden="true"
                             ></span>
 
-                            <ul className="sub-menu">
+
+                            {/* <ul className="sub-menu">
                                 <li>
                                     <NavLink
                                         to={process.env.PUBLIC_URL + "/about"}
@@ -78,7 +79,7 @@ const HamburgerMenu = ({ show, onClose }) => {
                                         Pricing
                                     </NavLink>
                                 </li>
-                            </ul>
+                            </ul> */}
                         </li>
                         <li>
                             <NavLink to={process.env.PUBLIC_URL + "/project"}>

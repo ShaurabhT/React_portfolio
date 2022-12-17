@@ -21,13 +21,13 @@ const HomePage = () => {
                 <div className="main-wrapper">
                     <Header />
                     <IntroContainer />
-                    {/* <BrandContainer /> */}
+                    <BrandContainer />
                     <HomeAbout />
                     <IconBoxContainer />
                     <FunfactContainer />
                     <WorkContainer />
                     <AboutAward />
-                    <TestimonialContainer />
+                    {/* <TestimonialContainer /> */}
                     <Footer />
                 </div>
                 <ScrollToTop />

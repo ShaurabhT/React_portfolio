@@ -42,7 +42,7 @@ const HomeAbout = () => {
                                 </p> */}
                                 <img
                                     className="signechar"
-                                    src="./images/signechar.png"
+                                    src="/images/signechar.png"
                                     alt=""
                                 />
                                 <h6 className="name">Shaurabh R. Tuladhar</h6>

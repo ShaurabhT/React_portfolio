@@ -1,68 +1,42 @@
 [
     {
-        "id": 1,
-        "media": {
-            "thumb": "./images/work/Designs/CalmPokharaPoster1.jpg"
-        },
-        "title": "Cubic Villa",
-        "categories": [
-            "Architecture",
-            "Residential"
-        ]
-    },
-    {
-        "id": 2,
-        "media": {
-            "thumb": "./images/work/Designs/CalmPokharaPoster2.jpg"
-        },
-        "title": "OBERO",
-        "categories": [
-            "Architecture",
-            "Residential"
-        ]
-    },
-    {
-        "id": 3,
-        "media": {
-            "thumb": "./images/work/Designs/CalmPokharaPoster3.jpg"
-        },
-        "title": "ABC Financial Bank",
-        "categories": [
-            "Commercial",
-            "Residential"
-        ]
-    },
-    {
-        "id": 4,
-        "media": {
-            "thumb": "./images/work/Designs/CalmPokharaPoster4.jpg"
-        },
-        "title": "B6-No.5 OLA Tower",
-        "categories": [
-            "Interior",
-            "Commercial"
-        ]
-    },
-    {
-        "id": 5,
-        "media": {
-            "thumb": "./images/work/Designs/"
-        },
-        "title": "B6-No.5 OLA Tower",
-        "categories": [
-            "Interior",
-            "Commercial"
-        ]
-    },
-    {
         "id": 6,
         "media": {
-            "vid": "./images/work/Designs/"
+            "thumb": "/images/work/work-6.jpg"
         },
-        "title": "B6-No.5 OLA Tower",
+        "title": "Calm Pokhara Event",
         "categories": [
-            "Interior",
-            "Commercial"
+            "Design"
+        ]
+    },
+    {
+        "id": 7,
+        "media": {
+            "thumb": "/images/work/work-7.jpg"
+        },
+        "title": "Kim Kim's Branding",
+        "categories": [
+            "Design"
+        ]
+    },
+    {
+        "id": 8,
+        "media": {
+            "thumb": "/images/work/work-8.jpg"
+        },
+        "title": "House of Brainz (HOB)",
+        "categories": [
+            "Design"
+        ]
+    },
+    {
+        "id": 9,
+        "media": {
+            "thumb": "/images/work/work-9.jpg"
+        },
+        "title": "Free time works",
+        "categories": [
+            "Design"
         ]
     }
 ]

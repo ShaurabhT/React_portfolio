@@ -33,7 +33,7 @@ const Header = () => {
                         <div className="logo-box">
                             <div className="logo">
                                 <Logo
-                                    image={`${process.env.PUBLIC_URL}/images/logo.png`}
+                                    image="/images/logo.png"
                                 />
                             </div>
                         </div>

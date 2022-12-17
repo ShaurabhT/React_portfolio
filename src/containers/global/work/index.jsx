@@ -17,11 +17,11 @@ import SwiperCore, { Navigation } from "swiper";
 import Work from "../../../components/work/index";
 //For non clickable links
 import Work2 from "../../../components/work/nodiv";
+import { Link } from "react-router-dom";
 
 import codes from "../../../data/codes.json";
 import design from "../../../data/Designs.json";
-import photography from "../../../data/Photography.json";
-import videos from "../../../data/videos.json";
+
 
 SwiperCore.use([Navigation]);
 const WorkContainer = () => {
@@ -111,36 +111,13 @@ const WorkContainer = () => {
                                                 active: activeTab === "3",
                                             })}
                                             onClick={() => {
-                                                toggle("3");
+                                                parent.location = process.env.PUBLIC_URL + "/about"
                                             }}
                                         >
-                                            Photography
+                                            More
                                         </NavLink>
                                     </NavItem>
-                                    <NavItem>
-                                        <NavLink
-                                            className={classnames({
-                                                active: activeTab === "4",
-                                            })}
-                                            onClick={() => {
-                                                toggle("4");
-                                            }}
-                                        >
-                                            Videos
-                                        </NavLink>
-                                    </NavItem>
-                                    <NavItem>
-                                        <NavLink
-                                            className={classnames({
-                                                active: activeTab === "5",
-                                            })}
-                                            onClick={() => {
-                                                toggle("5");
-                                            }}
-                                        >
-                                            Test
-                                        </NavLink>
-                                    </NavItem>
+
                                 </Nav>
                             </div>
                         </div>
@@ -173,73 +150,19 @@ const WorkContainer = () => {
                                 design.map((single, i) => {
                                     return (
                                         <SwiperSlide key={i}>
-                                            <Work2 key={i} data={single} />
-                                        </SwiperSlide>
-                                    );
-                                })}
-                            <div className="tab-carousel-prev swiper-button-prev">
-                                <i className="icofont-thin-left"></i>
-                            </div>
-                            <div className="tab-carousel-next swiper-button-next">
-                                <i className="icofont-thin-right"></i>
-                            </div>
-                        </Swiper>
-                    </TabPane>
-                    <TabPane tabId="3">
-                        <Swiper className="tab-carousel" {...swiperOption}>
-                            {photography &&
-                                photography.map((single, i) => {
-                                    return (
-                                        <SwiperSlide key={i}>
-                                            <Work2 key={i} data={single} />
-                                        </SwiperSlide>
-                                    );
-                                })}
-                            <div className="tab-carousel-prev swiper-button-prev">
-                                <i className="icofont-thin-left"></i>
-                            </div>
-                            <div className="tab-carousel-next swiper-button-next">
-                                <i className="icofont-thin-right"></i>
-                            </div>
-                        </Swiper>
-                    </TabPane>
-                    <TabPane tabId="4">
-                        <Swiper className="tab-carousel" {...swiperOption}>
-                            {videos &&
-                                videos.map((single, i) => {
-                                    return (
-                                        <SwiperSlide key={i}>
                                             <Work key={i} data={single} />
                                         </SwiperSlide>
                                     );
                                 })}
+                            <div className="tab-carousel-prev swiper-button-prev">
+                                <i className="icofont-thin-left"></i>
+                            </div>
+                            <div className="tab-carousel-next swiper-button-next">
+                                <i className="icofont-thin-right"></i>
+                            </div>
+                        </Swiper>
+                    </TabPane>
 
-                            <div className="tab-carousel-prev swiper-button-prev">
-                                <i className="icofont-thin-left"></i>
-                            </div>
-                            <div className="tab-carousel-next swiper-button-next">
-                                <i className="icofont-thin-right"></i>
-                            </div>
-                        </Swiper>
-                    </TabPane>
-                    <TabPane tabId="5">
-                        <Swiper className="tab-carousel" {...swiperOption}>
-                            {codes &&
-                                codes.map((single, i) => {
-                                    return (
-                                        <SwiperSlide key={i}>
-                                            <Work key={i} data={single} />
-                                        </SwiperSlide>
-                                    );
-                                })}
-                            <div className="tab-carousel-prev swiper-button-prev">
-                                <i className="icofont-thin-left"></i>
-                            </div>
-                            <div className="tab-carousel-next swiper-button-next">
-                                <i className="icofont-thin-right"></i>
-                            </div>
-                        </Swiper>
-                    </TabPane>
                 </TabContent>
             </div>
         </div>
